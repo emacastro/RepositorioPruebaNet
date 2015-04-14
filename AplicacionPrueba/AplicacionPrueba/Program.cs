@@ -16,6 +16,7 @@ namespace AplicacionPrueba
             string nombre = Console.ReadLine();
             Console.WriteLine("Hola "+nombre + " !");
             Console.WriteLine("Nueva linea");
+            Console.WriteLine("Otra linea");
             Console.ReadKey();
         }
     }
