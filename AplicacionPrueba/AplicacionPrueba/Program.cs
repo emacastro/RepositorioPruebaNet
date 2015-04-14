@@ -12,6 +12,9 @@ namespace AplicacionPrueba
         {
             Console.WriteLine("Hola mundo");
             Console.WriteLine("Como va?");
+            Console.WriteLine("Diga su nombre");
+            string nombre = Console.ReadLine();
+            Console.WriteLine("Hola "+nombre + " !");
             Console.ReadKey();
         }
     }
