@@ -18,6 +18,7 @@ namespace AplicacionPrueba
             Console.WriteLine("Nueva linea");
             Console.WriteLine("Cambio linea");
             Console.WriteLine("Ultimo cambio");
+
             Console.ReadKey();
         }
     }
